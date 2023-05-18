@@ -1,0 +1,15 @@
+/Users/chien/Documents/c#/bin/Debug/net7.0/c#
+/Users/chien/Documents/c#/bin/Debug/net7.0/c#.deps.json
+/Users/chien/Documents/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/Users/chien/Documents/c#/bin/Debug/net7.0/c#.dll
+/Users/chien/Documents/c#/bin/Debug/net7.0/c#.pdb
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.dll
+/Users/chien/Documents/c#/obj/Debug/net7.0/refint/c#.dll
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.pdb
+/Users/chien/Documents/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/Users/chien/Documents/c#/obj/Debug/net7.0/ref/c#.dll
