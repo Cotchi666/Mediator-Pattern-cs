@@ -9,3 +9,4 @@ With that being said, the problem could be fixed with MEDITOR PATTERN.
 <br/>
 We just create the one "Meditor" which contains list of users and when a new user created, the meditor will recognize that user and sign it, so on... You send a notification at this time, the meditor's about to check the list of user, then do this method.
 
+- Reference: <a href="https://www.google.com/" target="_blank">MEDITOR</a>
